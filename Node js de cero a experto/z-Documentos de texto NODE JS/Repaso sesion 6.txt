@@ -1,0 +1,14 @@
+
+1.Crear carpeta de trabajo , click derecho dentro de la carpeta y seleccionamos git batch ,iniciamos proyecto en git con:
+	git init	 			para iniciar
+	git add .        			para agregar 
+	git commit -am 	"message"		preparar el proyecto con un mensaje 
+	git remote add origin URL      		para agegar el destino  del proyecto a un repositorio git 
+	git push origin mmaster			ya se envia el proyecto al repositorio.
+	
+2.Abrir cmd y colocar cd, arrastrar la carpeta despues de cd espacio ,asi : cd C:/ejemplo.
+luego enter,despues iniciar Json con  npm init -y    y luego enter.
+3.Abrir VSC y arrastrar la carpeta creada.abrir consola powerShel y instalar paquetes npm colors inquirer node    y luego enter.
+4.Ahora modificamos el archivo package.json y en donde dice scripts colocamos "start": "node index.js"
+5.
+

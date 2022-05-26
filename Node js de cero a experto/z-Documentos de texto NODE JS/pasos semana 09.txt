@@ -1,0 +1,30 @@
+instalar paquetes:
+npm i express
+npm i dotenv
+npm i mongoose
+
+crear Carpeta models/
+
+		usuario.js      crear atributos de usuario
+		//server.js     crear la coneccion a la bd y distribuir las rutas
+
+Crear carpeta controllers	Crear los metodos vervos 
+		usuarios.js
+
+Crear carpeta routes 
+		usuarios.js 	rutear los metodos vervos
+carpeta models/
+		//server.js     crear la coneccion a la bd y distribuir las rutas
+
+
+
+
+
+
+crear carpeta public/
+		index.html    
+	db				user
+pratica-node			user-node-practica
+KqvUgrnOGAHaN4V0		TLLT0AisADTawsHM
+
+mongodb+srv://user:<password>@mibasededatos.w0uqw.mongodb.net/test

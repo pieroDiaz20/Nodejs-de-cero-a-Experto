@@ -1,0 +1,7 @@
+Sucir archivos
+	https://www.npmjs.com/package/express-fileupload
+		-npm i express-fileupload
+
+Cloudinary-Servicio para imagenes y videos
+	https://cloudinary.com/
+

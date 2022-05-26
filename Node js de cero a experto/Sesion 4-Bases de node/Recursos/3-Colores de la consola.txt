@@ -1,0 +1,2 @@
+https://www.npmjs.com/package/colors
+npm i colors
